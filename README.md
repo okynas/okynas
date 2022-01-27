@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Bachelors assignments**
 
-- 🌱 I’m currently learning **Algorithms, Photogrammetry, C++, ...**
+- 🌱 I’m currently learning **Algorithms, Photogrammetry, ...**
 
 - 👨‍💻 All of my projects are available at [github.com/okynas](github.com/okynas)
 
