@@ -7,13 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okynas" alt="okynas" /></a> </p>
 
-- 🔭 I’m currently working on **Bachelors assignments**
+- 🔭 I’m currently working as Software Dev.
 
-- 🌱 I’m currently learning **Algorithms, Photogrammetry, Lidar, C++ ...**
-
-- 👨‍💻 All of my projects are available at [github.com/okynas](github.com/okynas)
-
-- 💬 Ask me about **Anything :)**
+- 🌱 I’m currently learning **C++ and unittesting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,6 +40,8 @@
  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a> 
+ <a href="https://cplusplus.com/reference/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+  
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=okynas&show_icons=true&theme=radical&bg_color=000000&hide_border=true&locale=en" alt="okynas" /></p>
