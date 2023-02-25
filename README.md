@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working as Software Dev.
 
-- 🌱 I’m currently learning **C++ and unittesting**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
