@@ -1,18 +1,11 @@
 
 
-<h1 align="center">Hi 👋, There!</h1>
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm a passionate Junior Developer 💻!</h3>
-<p>I have a degree in Computer Engineering<p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okynas&label=Profile%20views&color=0e75b6&style=flat" alt="okynas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okynas" alt="okynas" /></a> </p>
-
-- 🔭 I’m currently working as Software Dev.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
