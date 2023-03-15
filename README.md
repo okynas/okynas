@@ -1,7 +1,8 @@
 
 
-<h1 align="center">Hi 👋, I'm Stian </h1>
-<h3 align="center">A passionate a Software Engineering Student 💻 from Norway!</h3>
+<h1 align="center">Hi 👋, There!</h1>
+<h3 align="center">I'm a passionate Junior Developer 💻!</h3>
+<p>I have a degree in Computer Engineering<p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okynas&label=Profile%20views&color=0e75b6&style=flat" alt="okynas" /> </p>
 
